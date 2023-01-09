@@ -2,7 +2,7 @@ class Main {
   public static void main(String[] args) {
 
     // declare a variable
-    char c = 'a';
+    char c = 'b';
 
     // checks if c is an alphabet
     if (Character.isAlphabetic(c)) {
