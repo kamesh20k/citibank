@@ -1,7 +1,7 @@
 class Main {
   public static void main(String[] args) {
 
-    // declare a variable
+    // declare a variables
     char c = 'd';
 
     // checks if c is an alphabet
