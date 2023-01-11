@@ -4,7 +4,7 @@ class Main {
     // declare a variables
     char c = 'd';
 
-    // checks if c is an alphabet
+    // checks if c is an alphabets
     if (Character.isAlphabetic(x)) {
       System.out.println(d + " is an alphabets.");
     }
