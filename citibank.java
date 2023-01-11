@@ -6,7 +6,7 @@ class Main {
 
     // checks if c is an alphabet
     if (Character.isAlphabetic(c)) {
-      System.out.println(c + " is an alphabet.");
+      System.out.println(d + " is an alphabet.");
     }
     else {
       System.out.println(c + " is not an alphabet.");
