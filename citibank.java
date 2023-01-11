@@ -6,10 +6,10 @@ class Main {
 
     // checks if c is an alphabet
     if (Character.isAlphabetic(x)) {
-      System.out.println(d + " is an alphabet.");
+      System.out.println(d + " is an alphabets.");
     }
     else {
-      System.out.println(c + " is not an alphabet.");
+      System.out.println(c + " is not an alphabets.");
     }
   }
 }
